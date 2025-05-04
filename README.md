@@ -1,6 +1,6 @@
 # Сервис управления балансом пользователя
 
-Этот проект представляет собой RESTful API для управления балансом пользователя, реализованный с использованием архитектуры CQRS (Command Query Responsibility Segregation) и Event Sourcing.
+Этот проект представляет собой RESTful API для управления балансом пользователя, реализованный с использованием архитектуры CQRS (Command Query Responsibility Segregation) и Event Sourcing (Optimistic Locking).
 
 ## Возможности
 
